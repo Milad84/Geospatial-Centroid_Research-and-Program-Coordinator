@@ -1,0 +1,15 @@
+cucurbitaData.csv - occurrence data for three species : g and h are categorical values associate with genebank or herbarium samples 
+
+proAreas.tif - protect lands layer based on https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA converted to binary raster, 1 = protected lands
+
+
+cucubitaRasters.rda - raster stack of predicted distribution models for the three species of interest
+
+ecoregions.rda - a shp of WWF ecoregions crop to approximate extent of the modeled area 
+
+example data is from 
+https://github.com/CIAT-DAPA/GapAnalysis
+
+original research can be found here
+https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10085
+
